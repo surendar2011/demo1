@@ -1,0 +1,6 @@
+hello from rebase
+
+doing rebase
+commit for new branch
+code from test branch
+merger
